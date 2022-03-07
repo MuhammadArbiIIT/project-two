@@ -4,6 +4,11 @@ body {
     background: linear-gradient(to top right, #000099 0%, #00ffcc 100%);
 }
 
+body img {
+    width: 100%;
+    height:auto;
+}
+
 header {
     font-family: Rubik, "Times New Roman";
     font-size: 30px;
@@ -44,4 +49,22 @@ p {
 
 .navbar-container a:hover{
     background: #4ddbff;
+}
+
+.baby-sitting img {
+    text-align: center;
+    width: 30%;   
+    padding-left: 41em;
+}
+
+.computer img {
+    text-align: center; 
+    width: 30%;
+    padding-left: 41em;
+}
+
+.awards img {
+    text-align: center; 
+    width: 10%;
+    padding-left: 53em;
 }
