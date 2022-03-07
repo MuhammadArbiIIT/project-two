@@ -80,5 +80,14 @@ p {
 
 .karachi img {
     width: 40%;
-    padding-left:600px ;
+    padding-left: 600px;
+}
+
+.people header {
+    text-decoration: none;
+}
+
+.people img {
+    width: 40%;
+    padding-left: 600px;
 }
