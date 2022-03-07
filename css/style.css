@@ -72,7 +72,6 @@ p {
 }
 
 /*pakistan webpage*/
-
 .karachi header{
     padding-top: 100px;
     text-decoration: none;
@@ -88,6 +87,15 @@ p {
 }
 
 .people img {
+    width: 40%;
+    padding-left: 600px;
+}
+
+.cricket header {
+    text-decoration: none;
+}
+
+.cricket img {
     width: 40%;
     padding-left: 600px;
 }
