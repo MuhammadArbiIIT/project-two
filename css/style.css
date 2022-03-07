@@ -1,5 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Rubik:wght@300&display=swap');
+
 body {
     background: linear-gradient(to top right, #000099 0%, #00ffcc 100%);
+}
+
+header {
+    font-family: Rubik, "Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Rubik, "Times New Roman";
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .navbar-container ul {
