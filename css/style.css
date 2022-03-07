@@ -108,3 +108,13 @@ p {
     width: 40%;
     padding-left: 600px;
 }
+/*virtual machines webpage*/
+.os header{
+    padding-top: 10px;
+    padding-bottom: -40px;
+}
+
+.os img {
+    width: 40%;
+    padding-left: 600px;
+}
