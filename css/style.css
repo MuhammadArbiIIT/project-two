@@ -110,11 +110,21 @@ p {
 }
 /*virtual machines webpage*/
 .os header{
+    text-decoration: none;
     padding-top: 10px;
     padding-bottom: -40px;
 }
 
 .os img {
+    width: 40%;
+    padding-left: 600px;
+}
+
+.vm header{
+    text-decoration: none;
+}
+
+.vm img {
     width: 40%;
     padding-left: 600px;
 }
