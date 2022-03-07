@@ -18,7 +18,7 @@ header {
 
 p {
     font-family: Rubik, "Times New Roman";
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
     text-align: center;
 }
@@ -51,20 +51,34 @@ p {
     background: #4ddbff;
 }
 
+/*resume webpage*/
+
 .baby-sitting img {
     text-align: center;
     width: 30%;   
-    padding-left: 41em;
+    padding-left: 650px;
 }
 
 .computer img {
     text-align: center; 
     width: 30%;
-    padding-left: 41em;
+    padding-left: 650px;
 }
 
 .awards img {
     text-align: center; 
     width: 10%;
-    padding-left: 53em;
+    padding-left: 850px;
+}
+
+/*pakistan webpage*/
+
+.karachi header{
+    padding-top: 100px;
+    text-decoration: none;
+}
+
+.karachi img {
+    width: 40%;
+    padding-left:600px ;
 }
