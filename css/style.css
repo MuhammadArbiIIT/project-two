@@ -77,19 +77,22 @@ li:before {
 .baby-sitting img {
     text-align: center;
     width: 30%;   
-    padding-left: 650px;
 }
 
 .computer img {
     text-align: center; 
     width: 30%;
-    padding-left: 650px;
 }
 
 .awards img {
     text-align: center; 
     width: 10%;
-    padding-left: 850px;
+}
+
+.award-img-container {
+    position: relative; 
+    left: 800px;
+    bottom: 200px;
 }
 
 .references p {
@@ -100,6 +103,7 @@ li:before {
 }
 
 .references header {
+    margin-top: -150px;
     padding-left: 0px;
     text-align: center;
 }
