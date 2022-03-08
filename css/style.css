@@ -313,18 +313,39 @@ li:before {
     overflow-wrap: break-word;
 }
 
-
 .vm img {
     width: 40%;
 }
 
-.virus header{
+.usecase-header{
     text-decoration: none;
+    margin-top: -100px;
 }
 
-.virus img {
+.usecase p:before {
+    content: "\2724";
+    color: #F0FFFF;
+    margin-right: 20px;
+}
+
+.usecase-img-container {
+    position: relative;
+    bottom: 250px;
+    left: 150px;
+}
+
+.usecase-text-container {
+    position: relative;
+    left: 1000px;
+    top: 150px;
+    width: 360px;
+    height: 250px;
+    border: 4px solid white; 
+    overflow-wrap: break-word;
+}
+
+.usecase img {
     width: 40%;
-    padding-left: 600px;
 }
 
 
