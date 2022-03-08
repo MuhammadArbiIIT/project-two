@@ -9,6 +9,16 @@ body img {
     height:auto;
 }
 
+.header-resume header, p {
+    text-align: center;
+}
+
+.hedaer-resume p {
+    font-family: Rubik, "Times New Roman";
+    font-size: 16px;
+    font-weight: bold;
+}
+
 header {
     font-family: Rubik, "Times New Roman";
     font-size: 30px;
