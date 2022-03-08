@@ -88,6 +88,23 @@ li:before {
 .navbar-container a:hover{
   background: #4ddbff;
 }
+/*Homepage*/
+.homepage-header-container header {
+    font-family: Rubik, "Times New Roman";
+    font-size: 30px;
+    text-align: left;
+    text-decoration: underline;
+    padding-left: 50px;
+    text-align: center;
+}
+.homepage-header-container p {
+    font-family: Rubik, "Times New Roman";
+    font-size: 30px;
+    text-align: left;
+    text-decoration: none;
+    padding-left: 50px;
+    text-align: center;
+}
 
 /*resume webpage*/
 .baby-sitting img {
