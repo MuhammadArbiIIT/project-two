@@ -250,15 +250,40 @@ li:before {
 }
 
 /*virtual machines webpage*/
-.os header{
+.os-welcome {
+    text-align: center;
+}
+
+.os-header  {
     text-decoration: none;
     padding-top: 10px;
     padding-bottom: -40px;
 }
 
+.os p:before {
+    content: "\2724";
+    color: #F0FFFF;
+    margin-right: 20px;
+}
+
+.os-img-container {
+    position: relative; 
+    bottom: 250px;
+    left: 150px;
+}
+
+.os-text-container {
+    position: relative;
+    left: 1000px;
+    top: 200px;
+    width: 360px;
+    height: 250;
+    border: 4px solid white; 
+    overflow-wrap: break-word;
+}
+
 .os img {
     width: 40%;
-    padding-left: 600px;
 }
 
 .vm header{
