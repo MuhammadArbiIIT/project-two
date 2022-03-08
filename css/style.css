@@ -340,6 +340,7 @@ li:before {
 
 .os img {
   width: 40%;
+  border: 4px solid black;
 }
 
 .origin-continued {
@@ -371,6 +372,7 @@ li:before {
 
 .vm img {
   width: 40%;
+  border: 4px solid black;
 }
 
 .usecase-header{
@@ -402,6 +404,7 @@ li:before {
 
 .usecase img {
   width: 40%;
+  border: 4px solid black;
 }
 
 
