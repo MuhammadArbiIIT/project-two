@@ -164,6 +164,12 @@ li:before {
   margin-left: -30px;
 }
 
+.karachi p:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
 .karachi-text {
   position: relative;
   top: 100px;
@@ -186,6 +192,12 @@ li:before {
 
 .languages-pakistan p {
   margin-left: -30px;
+}
+
+.languages-pakistan p:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
 }
 
 .language-container {
@@ -223,6 +235,12 @@ li:before {
   margin-left: -30px;
 }
 
+.cricket p:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
 .cricket-text-container {
   position: relative;
   top: 150px;
@@ -256,6 +274,12 @@ li:before {
 
 .rupee p {
   margin-left: -30px;
+}
+
+.rupee p:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
 }
 
 .ruppe-text-container{
