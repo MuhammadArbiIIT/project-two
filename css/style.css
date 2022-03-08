@@ -76,7 +76,17 @@ li:before {
 /*resume webpage*/
 .baby-sitting img {
     text-align: center;
-    width: 30%;   
+    width: 20%;   
+}
+
+.babysitting-img-container {
+    position: relative; 
+    left: 1000px;
+    bottom: 200px;
+}
+
+.computerskills {
+    margin-top: -150px;
 }
 
 .computer img {
