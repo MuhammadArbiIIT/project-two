@@ -44,19 +44,12 @@ li {
   padding-bottom: 10px;
 }
 
-li:before {
-  content: "\2724";
-  color: #F0FFFF;
-  margin-right: 20px;
-}
-
-
 /*navbar*/
 .navbar-container ul {
   list-style: none;
   background: white;
-  padding: 0px;
-  margin: 0;
+  padding: 20px;
+  margin: 20px;
   opacity: 80%;
   text-align: center;
 }   
@@ -70,7 +63,7 @@ li:before {
     border-color: black;
     background-color: white;
     display: block;
-    padding: 20px 70px;
+    padding: 20px;
     text-decoration: none;
     color: #696969;
   }
