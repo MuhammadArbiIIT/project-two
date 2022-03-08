@@ -83,6 +83,7 @@ li:before {
 .baby-sitting img {
   text-align: center;
   width: 20%;   
+  border: 4px solid black;
 }
 
 .babysitting-img-container {
@@ -98,6 +99,7 @@ li:before {
 .computer img {
   text-align: center; 
   width: 20%;
+  border: 4px solid black;
 }
 
 .computer-img-container {
@@ -113,6 +115,7 @@ li:before {
 .awards img {
   text-align: center; 
   width: 10%;
+  border: 4px solid black;
 }
 
 .award-img-container {
