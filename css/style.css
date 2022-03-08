@@ -81,7 +81,17 @@ li:before {
 
 .computer img {
     text-align: center; 
-    width: 30%;
+    width: 20%;
+}
+
+.computer-img-container {
+    position: relative;
+    left: 1000px;
+    bottom: 160px;
+}
+
+.activitiesandclubs {
+    margin-top: -200px;
 }
 
 .awards img {
