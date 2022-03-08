@@ -393,5 +393,17 @@ li:before {
 .yt-vid {
     position: relative;
     left: 650px;
+}
 
+.footer {
+    font-size: 20px;
+    position: relative; 
+    left: 820px;
+    color: white;
+    bottom: 50px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
 }
