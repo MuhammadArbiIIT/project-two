@@ -65,6 +65,16 @@ li:before {
   display: inline-block;
 }
 
+.navbar-container ul li a {
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    display: block;
+    padding: 20px 70px;
+    text-decoration: none;
+    color: #696969;
+  }
+
 .navbar-container a {
   text-decoration: none;
   color: black;
