@@ -46,6 +46,11 @@ li {
 }
 
 /*navbar*/
+.navbar-container {
+  width: 100%;
+  position: relative;
+}
+
 .navbar-container ul {
   list-style: none;
   background: white;
