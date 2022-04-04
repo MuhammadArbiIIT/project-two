@@ -108,6 +108,18 @@ li {
 }
 
 /*resume webpage*/
+.education li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
+.Experience li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
 .baby-sitting img {
   text-align: center;
   width: 20%;   
@@ -118,6 +130,12 @@ li {
   position: relative; 
   left: 1000px;
   bottom: 200px;
+}
+
+.baby-sitting li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
 }
 
 .computerskills {
@@ -136,8 +154,27 @@ li {
   bottom: 160px;
 }
 
+.computer li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
+
 .activitiesandclubs {
   margin-top: -200px;
+}
+
+.activities li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
+}
+
+.volunteer li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
 }
 
 .awards img {
@@ -150,6 +187,12 @@ li {
   position: relative; 
   left: 800px;
   bottom: 200px;
+}
+
+.awards li:before {
+  content: "\2724";
+  color: #F0FFFF;
+  margin-right: 20px;
 }
 
 .references p {
